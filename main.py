@@ -1,9 +1,4 @@
 #!/usr/bin/python3
-"""
-@file: main.py
-@History:
-  # 2017/08/17: Initial version - nemesis.nitt@gmail.com
-"""
 import os
 import os.path
 import tensorflow as tf
